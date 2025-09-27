@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+pycache/
+*.log
+*.tmp
+*.temp
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+venv/
+env/
+ENV/
+*.env
+secret.txt
